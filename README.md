@@ -4,7 +4,7 @@
 
 <h2>Professional Journey</h2>
 
-<p>🌟 Started in 2014 with a Bachelors in Mechanical Engineering and in 2018 I started working as a Engineer in R&D Department of Daikin Air Conditioning before quitting that position to pursue my Masters degree.</p>
+<p>🌟 Started in 2014 with a Bachelors in Mechanical Engineering and in 2018 I started working as a Engineer in R&D Department of Daikin Air Conditioning before quitting to pursue my Masters degree in Industrial Engineering.</p>
 
 <h2>Current Learning</h2>
 
