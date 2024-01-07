@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Forecasting Methodologies, Econometric Analysis and Basic Machine learning <br>🎯 Goals: Improve Data Analytics knowledge in Supply Chain, Project Management and Logistics Context<br>🎲 Fun fact: Doing this for my personal satisfaction. Career wise looking to get involved in Project Management</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Forecasting Methodologies, Econometric Analysis and Basic Machine learning <br>🎯 Goals: Improve Data Analytics knowledge in Supply Chain, Project Management and Logistics Context<br>🎲 Fun fact: Doing this for my personal satisfaction. Looking for a job in Project Management</p>
 
 ###
 
