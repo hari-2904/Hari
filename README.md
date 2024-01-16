@@ -20,7 +20,7 @@
 
 <h2>Career Goals? </h2>
 
-<p>🚀 Aspiring to contribute to Logistics and Supply Chain Management with a strong foundation in data-driven decision-making.</p>
+<p>🚀 Logistics and Supply Chain Management professional with a strong foundation in data-driven decision-making.</p>
 
 <h2>Softwares and IDE's I Work With</h2>
 
