@@ -8,7 +8,7 @@
 
 <h2>Current Learning</h2>
 
-<p>📚 Currently diving into Forecasting Methodologies, Econometric Analysis, and Basic Machine Learning.</p>
+<p>📚 Currently diving into Forecasting Methodologies, Econometric Analysis, and Machine Learning.</p>
 
 <h2>WHY 1? </h2>
 
@@ -20,7 +20,7 @@
 
 <h2>Career Goals? </h2>
 
-<p>🚀 Aspiring to contribute to Project Management with a strong foundation in data-driven decision-making.</p>
+<p>🚀 Aspiring to contribute to Logistics and Supply Chain Management with a strong foundation in data-driven decision-making.</p>
 
 <h2>Softwares and IDE's I Work With</h2>
 
