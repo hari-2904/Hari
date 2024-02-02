@@ -1,6 +1,6 @@
 <h1>About Me</h1>
 
-<p>Logistics | Supply Chain Management | Data-driven decision-making.</p>
+<p>Logistics | Supply Chain Management | Data Science </p>
 
 <h2>Softwares and IDE's I Work With</h2>
 
